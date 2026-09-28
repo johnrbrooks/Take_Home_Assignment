@@ -1,0 +1,6 @@
+user_key,email,account_id,site_role,collaborative_role
+admin-user,johnrbrooks93@gmail.com,712020:dca4ee4c-908a-4aa4-8b39-b1a6a5809718,admin,site_admin
+user-1,johnrbrooks93+oxalis-user1@gmail.com,712020:b1210645-dd5b-42e3-ac8e-1d043fcad5b0,standard,space_admin
+user-2,johnrbrooks93+oxalis-user2@gmail.com,712020:dcab4a06-b568-4af5-a9fd-7c983a4f3e85,standard,editor
+user-3,johnrbrooks93+oxalis-user3@gmail.com,712020:077cb72c-f912-41f9-adc5-c10383f3164c,standard,editor
+user-4,johnrbrooks93+oxalis-user4@gmail.com,712020:d241d208-bbdb-422c-99cd-cf51df2af012,standard,editor
